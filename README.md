@@ -1,4 +1,3 @@
-# scaler
 ### BookMyShow Design
 
 Requirements:
